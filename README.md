@@ -10,6 +10,8 @@
 
 Hey there, I’m Sumaiyya. I’m an aspiring software engineer and UW Computer Science student with a passion for building meaningful projects. I focus on writing clean, effective code while also bringing creativity, curiosity, and collaboration to everything I do. Outside of coding, I’m invested in leadership and advocacy. I’ve led initiatives that empower communities, and I bring the same dedication to every project I work on. I enjoy tackling challenges, learning new skills, and creating solutions that make a difference!
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sumaiyya-Zunairah&theme=whatsapp-dark2)](https://git.io/streak-stats) 
+
 
 <!--
 **Sumaiyya-Zunairah/Sumaiyya-Zunairah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
