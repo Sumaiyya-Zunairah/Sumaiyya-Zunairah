@@ -2,7 +2,7 @@
 
 [![MasterHead](https://media1.tenor.com/m/GZ9Rqzq932gAAAAC/only-yesterday-ghibli.gif)](https://github.com/Sumaiyya-Zunairah)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=77DD77E&width=435&lines=Aspiring+Software+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Student+at+UW+CS+%F0%9F%93%9A;Lifelong+Learner+%F0%9F%8C%B1)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=#B4D3B2E&width=435&lines=Aspiring+Software+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Student+at+UW+CS+%F0%9F%93%9A;Lifelong+Learner+%F0%9F%8C%B1)](https://git.io/typing-svg) 
 
 
 
