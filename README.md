@@ -10,14 +10,6 @@ Welcome to my GitHub profile! Here you can see my recent projects, coding activi
 
 [![Sumaiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumaiyya-Zunairah)](https://github.com/Sumaiyya-Zunairah/github-readme-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiyya-Zunairah&layout=compact&langs_count=6)
-
----
-
-## 📌 Recent Projects / Pinned Repositories
-
-![Number-guesser](https://github-readme-stats.vercel.app/api/pin/?username=Sumaiyya-Zunairah&repo=REPO1)
-
 
 Thanks for visiting! 💖
 
