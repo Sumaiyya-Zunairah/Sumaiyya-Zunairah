@@ -8,7 +8,7 @@ Welcome to my GitHub profile! Here you can see my recent projects, coding activi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumaiyya-Zunairah&show_icons=true&theme=radical)
+[![Sumaiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumaiyya-Zunairah)](https://github.com/Sumaiyya-Zunairah/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiyya-Zunairah&layout=compact&langs_count=6)
 
