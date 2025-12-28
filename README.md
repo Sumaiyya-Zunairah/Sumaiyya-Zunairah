@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=big&pause=1000&color=099500&background=FA4DFF00&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! Here you can see my recent projects, coding activity, and favorite programming languages.
 
 ---
 
