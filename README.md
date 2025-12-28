@@ -1,19 +1,7 @@
 # Hi 👋, I'm Sumaiyya!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=28FF1E&width=435&lines=Aspiring+Software+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Student+at+UW+CS+%F0%9F%93%9A;Lifelong+Learner+%F0%9F%8C%B1)](https://git.io/typing-svg) 
 
-[![Typing SVG](https:/<img width="676" height="273" alt= src="https://github.com/user-attachments/assets/44fdb80d-56fa-49c5-b5f3-913feaf1cb2e" />
-/readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=big&pause=1000&color=099500&background=FA4DFF00&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
-
-
-
----
-
-## 📊 GitHub Stats
-
-[![Sumaiyya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumaiyya-Zunairah)](https://github.com/Sumaiyya-Zunairah/github-readme-stats)
-
-
-Thanks for visiting! 💖
 
 
 <!--
