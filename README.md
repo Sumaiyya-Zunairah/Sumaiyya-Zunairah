@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there 👋, I'm Sumaiyya!
+## Hi there 👋, I'm Sumaiyya!
 
 Welcome to my GitHub profile! Here you can see some of my projects and coding activities.
 
