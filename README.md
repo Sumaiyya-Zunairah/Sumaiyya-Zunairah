@@ -2,6 +2,8 @@
 
 [![MasterHead](https://media1.tenor.com/m/GZ9Rqzq932gAAAAC/only-yesterday-ghibli.gif)](https://github.com/Sumaiyya-Zunairah)
 
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B4D3B2&width=435&lines=Aspiring+Software+Engineer+;Student+at+University+of+Washington+CS;Lifelong+Learner)](https://git.io/typing-svg)
 
 # About me! ᯓ★
