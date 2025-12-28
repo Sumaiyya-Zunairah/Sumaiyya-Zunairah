@@ -1,36 +1,23 @@
-## Hi there 👋, I'm Sumaiyya!
+# Hi there 👋, I'm Sumaiyya!
 
-Welcome to my GitHub profile! Here you can see some of my projects and coding activities.
-
----
-
-<!-- GitHub Stats -->
-<a href="https://github.com/Sumaiyya-Zunairah">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Sumaiyya-Zunairah&show_icons=true&theme=radical" />
-</a>
-
-<!-- Top Languages -->
-<a href="https://github.com/Sumaiyya-Zunairah">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiyya-Zunairah&layout=compact&langs_count=6" />
-</a>
+Welcome to my GitHub profile! Here you can see my recent projects, coding activity, and favorite programming languages.
 
 ---
 
-## 📌 Pinned Repositories
+## 📊 GitHub Stats
 
-<a href="https://github.com/Sumaiyya-Zunairah/REPO1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumaiyya-Zunairah&repo=REPO1" />
-</a>
-<a href="https://github.com/Sumaiyya-Zunairah/REPO2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumaiyya-Zunairah&repo=REPO2" />
-</a>
-<a href="https://github.com/Sumaiyya-Zunairah/REPO3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sumaiyya-Zunairah&repo=REPO3" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumaiyya-Zunairah&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumaiyya-Zunairah&layout=compact&langs_count=6)
 
 ---
 
-Thanks for stopping by! 💖
+## 📌 Recent Projects / Pinned Repositories
+
+![Number-guesser](https://github-readme-stats.vercel.app/api/pin/?username=Sumaiyya-Zunairah&repo=REPO1)
+
+
+Thanks for visiting! 💖
 
 
 <!--
