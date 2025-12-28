@@ -21,6 +21,6 @@ Outside of coding, I’m invested in leadership and advocacy. I’ve led initiat
 
 ## Streaks! 𝜗ৎ
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sumaiyya-Zunairah&theme=whatsapp-dark2)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sumaiyya-Zunairah&theme=everforest-dark)](https://git.io/streak-stats)
 
 ---
